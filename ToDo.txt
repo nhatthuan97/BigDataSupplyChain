@@ -1,0 +1,11 @@
+#Average based on product category Quality Assurance -- Manufacture
+#Pickup
+# IF you are in CONTINENT, what is the maximum Quality Assurance Time before a lead time threshold. 
+    #TO achive a lead time of prediction days, what is the suggested Quality Assurance time, what is the suggested Manufacture time, what is the suggested Pick Up time
+    #If you sent stuff to Africa, to achive the lead time of 30 days, what is the suggested Quality Assurance time, what is the suggested Manufacture time, what is the suggested Pick Up time
+    #Input: Lead Time- some other junk
+    #Output: Suggested Quality Assurance, Suggested Manufacture, Suggested Pick Up
+
+Correlation between supplier delay and lead time
+
+Ordered Quantity:
